@@ -1,1 +1,1 @@
-# Razor_paper_2020
+#### Bhandari BK, Lim CS, Gardner PP. (2020). Annotating eukaryotic and toxin-specific signal peptides using Razor. bioRxiv. DOI:[10.1101/2020.11.30.405613 ](https://www.biorxiv.org/content/10.1101/2020.11.30.405613v1)
