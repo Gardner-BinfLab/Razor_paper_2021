@@ -90,7 +90,7 @@ def features(seq):
             "Input sequence must be 30 residues long!"
             "\nExpected length 30: Got {}".format(len(seq))
         )
-    aa_list = 'RKNDCEVIYFWL' + 'STG'
+    aa_list = 'RKNDCEVIYFWL' + 'QP'
     converted = np.array([hydrop_flex_swi[i] for i in seq])
     hydro = converted[:, 0]
     flex = converted[:, 1]
@@ -104,12 +104,12 @@ def features(seq):
 def s_score(feat):
     """
     S score of sequence.
-    Input is an array of features (105)
+    Input is an array of features (104)
     """
-    if len(feat) != 105:
+    if len(feat) != 104:
         raise ValueError(
             "Input features length is incorrect!"
-            "Expected length 105: Got {}".format(len(feat))
+            "Expected length 104: Got {}".format(len(feat))
         )
 
     if feat.dtype != np.float64:

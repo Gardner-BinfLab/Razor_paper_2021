@@ -70,7 +70,7 @@ def fasta_reader(file):
                                         expand=True)
     fasta_df['Accession'] = fasta_df['Accession']
     fasta_df['Sequence'] = fasta_df['Sequence'].replace('\n', '', regex=True).\
-                            astype(str).str.upper().replace('U', 'T')
+                            astype(str).str.upper().replace('U', 'C')
     total_seq = fasta_df.shape[0]
     fasta_df.drop(0, axis=1, inplace=True)
     fasta_df = fasta_df[fasta_df.Sequence != '']
