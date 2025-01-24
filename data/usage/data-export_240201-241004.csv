@@ -1,0 +1,113 @@
+# ----------------------------------------
+# Report CSV Export
+# Account: Tisigner
+# Property: TISIGNER
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20240201
+# End date: 20241004
+Event name,Event count,Total users,Event count per active user,Total revenue
+Submit Button Clicked.,10362,509,20.357563850687622,0
+page_view,6836,3466,1.9723023658395846,0
+SoDoPE Results Shown.,6015,589,10.212224108658743,0
+session_start,5245,3462,1.5150202195262854,0
+TIsigner Customisation/settings Clicked.,4176,151,27.655629139072847,0
+Type: Protein,4023,429,9.377622377622378,0
+TIsigner Submit Clicked.,3784,334,11.32934131736527,0
+first_visit,3460,3458,1.0005783689994217,0
+TIsigner Result Page Shown.,3389,368,9.209239130434783,0
+Optimisation Result From TIsigner Receiv,3234,304,10.638157894736842,0
+SoDoPE Slider Clicked.,2752,111,24.792792792792792,0
+General Tab Was Clicked.,2261,151,14.973509933774835,0
+Custom Promoter Was Entered.,1772,36,49.22222222222222,0
+Promoter Selected: Custom,1560,51,30.58823529411765,0
+View Plot Clicked,1501,230,6.526086956521739,0
+Advanced Tab Was Clicked.,1282,94,13.638297872340425,0
+Sampling Method: Deep,1087,32,33.96875,0
+Profile Plot Button Clicked,1078,311,3.4662379421221865,0
+Custom Tag Button Clicked,1008,259,3.891891891891892,0
+Analyse Solubility Button Clicked.,971,219,4.433789954337899,0
+Documentation Clicked.,896,227,4,0
+Razor Results Shown.,891,318,2.80188679245283,0
+Custom RMS Was Entered.,731,12,60.916666666666664,0
+Analyse Solubility:,585,195,3,0
+Extra Tab Was Clicked.,414,95,4.3578947368421055,0
+View Nucleotide/Protein Button Clicked.,255,91,2.802197802197802,0
+TIsigner Example Clicked.,207,102,2.0294117647058822,0
+SoDoPE Example Button Clicked.,202,126,1.6031746031746033,0
+SoDoPE Demo Button Clicked.,193,125,1.544,0
+Detect Signal Peptide Button Clicked.,176,99,1.7777777777777777,0
+TIsigner Demo Clicked.,160,111,1.4414414414414414,0
+Detect Signal Peptide,136,98,1.3877551020408163,0
+Optimisation Form Shown: True,120,65,1.8461538461538463,0
+Substitution Mode: fullGene,93,19,4.894736842105263,0
+Host Selected: Other,92,30,3.066666666666667,0
+Type: Nucleotide,63,46,1.3695652173913044,0
+TIsigner Optimisation Failed With Error:,61,17,3.588235294117647,0
+Custom Tag: Nucleotide,56,17,3.2941176470588234,0
+Promoter Selected: T7,55,39,1.4102564102564104,0
+General FAQ Clicked.,54,35,1.542857142857143,0
+Host Selected: Mus Musculus,46,12,3.8333333333333335,0
+Optimisation Form Shown: False,40,25,1.6,0
+RAZOR Example Button Clicked.,35,21,1.6666666666666667,0
+Reoptimise With Full Sequence Option Cli,33,7,4.714285714285714,0
+RAZOR Demo Button Clicked.,32,25,1.28,0
+timing_complete,28,16,1.75,0
+License Clicked.,24,19,1.263157894736842,0
+Host Selected: Escherichia Coli,20,17,1.1764705882352942,0
+Number of Codons to Substitute: 6,20,2,10,0
+Target Expression: 100,15,11,1.3636363636363635,0
+Host Selected: Saccharomyces Cerevisiae,13,7,1.8571428571428572,0
+Substitution Mode: transInit,13,9,1.4444444444444444,0
+TIsigner PDF Button Clicked and Results ,11,6,1.8333333333333333,0
+Custom Tag: Protein,10,9,1.1111111111111112,0
+Privacy Clicked.,8,8,1,0
+Target Expression: 70,5,4,1.25,0
+Target Expression: 30,4,4,1,0
+Terminator Check: False,4,4,1,0
+Custom Region;,3,2,1.5,0
+Sampling Method: Quick,3,3,1,0
+Custom Region; -,2,1,2,0
+Custom Region; -7,2,1,2,0
+Custom Region; 1,2,2,1,0
+Custom Region; 1:,2,2,1,0
+Custom Region; Gtgatgcggttttggcagtacacca,2,1,2,0
+Custom Seed: 4,2,2,1,0
+Custom Seed: 42,2,2,1,0
+Custom Seed: 420,2,2,1,0
+Custom Seed: 4206,2,2,1,0
+Custom Seed: 42069,2,2,1,0
+Number of Codons to Substitute: 4,2,1,2,0
+Number of Codons to Substitute: 5,2,1,2,0
+Number of Codons to Substitute: 7,2,1,2,0
+Number of Codons to Substitute: 8,2,2,1,0
+Target Expression: 29,2,1,2,0
+Target Expression: 31,2,2,1,0
+Terminator Check: True,2,2,1,0
+Custom Region; 1:5,1,1,1,0
+Custom Region; 1:50,1,1,1,0
+Custom Region; 1:7,1,1,1,0
+Custom Region; 7,1,1,1,0
+Custom Region; ATGGACTGGACCTGGAGGGTGTTCT,1,1,1,0
+Custom Region; MLPWSDSPLPDPVKKPNLFSPADDS,1,1,1,0
+Number of Codons to Substitute: 9,1,1,1,0
+Optimisation Direction: Decrease-Accessi,1,1,1,0
+Optimisation Direction: Increase-Accessi,1,1,1,0
+Target Expression: 18,1,1,1,0
+Target Expression: 21,1,1,1,0
+Target Expression: 24,1,1,1,0
+Target Expression: 25,1,1,1,0
+Target Expression: 26,1,1,1,0
+Target Expression: 42,1,1,1,0
+Target Expression: 45,1,1,1,0
+Target Expression: 5,1,1,1,0
+Target Expression: 53,1,1,1,0
+Target Expression: 56,1,1,1,0
+Target Expression: 6,1,1,1,0
+Target Expression: 68,1,1,1,0
+Target Expression: 71,1,1,1,0
+Target Expression: 72,1,1,1,0
+Target Expression: 88,1,1,1,0
+Target Expression: 90,1,1,1,0
+Target Expression: 99,1,1,1,0
