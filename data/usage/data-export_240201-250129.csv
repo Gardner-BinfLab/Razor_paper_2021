@@ -1,0 +1,171 @@
+# ----------------------------------------
+# Report CSV Export
+# Account: Tisigner
+# Property: TISIGNER
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20240201
+# End date: 20250128
+Event name,Event count,Total users,Event count per active user,Total revenue
+Submit Button Clicked.,17315,726,23.849862258953166,0
+page_view,10895,4927,2.2126320064987817,0
+SoDoPE Results Shown.,9716,845,11.498224852071006,0
+session_start,7625,4923,1.5497967479674797,0
+Type: Protein,6900,623,11.075441412520064,0
+TIsigner Customisation/settings Clicked.,5639,237,23.793248945147678,0
+TIsigner Submit Clicked.,5624,476,11.815126050420169,0
+SoDoPE Slider Clicked.,5466,151,36.19867549668874,0
+TIsigner Result Page Shown.,5033,514,9.79182879377432,0
+first_visit,4917,4914,1.0006105006105006,0
+Optimisation Result From TIsigner Receiv,4805,426,11.279342723004694,0
+General Tab Was Clicked.,3125,237,13.185654008438819,0
+Custom Promoter Was Entered.,2344,51,45.96078431372549,0
+View Plot Clicked,2222,328,6.774390243902439,0
+Promoter Selected: Custom,1793,76,23.592105263157894,0
+Profile Plot Button Clicked,1566,428,3.6588785046728973,0
+Advanced Tab Was Clicked.,1564,144,10.86111111111111,0
+Custom Tag Button Clicked,1493,383,3.898172323759791,0
+Analyse Solubility Button Clicked.,1415,310,4.564516129032258,0
+Razor Results Shown.,1374,443,3.1015801354401806,0
+Sampling Method: Deep,1244,46,27.043478260869566,0
+Documentation Clicked.,1231,316,3.9329073482428116,0
+Analyse Solubility:,874,286,3.055944055944056,0
+Custom RMS Was Entered.,824,14,58.857142857142854,0
+Extra Tab Was Clicked.,723,150,4.82,0
+View Nucleotide/Protein Button Clicked.,374,126,2.9682539682539684,0
+TIsigner Example Clicked.,321,159,2.018867924528302,0
+Detect Signal Peptide Button Clicked.,286,141,2.028368794326241,0
+SoDoPE Demo Button Clicked.,283,176,1.6171428571428572,0
+SoDoPE Example Button Clicked.,271,171,1.5847953216374269,0
+Host Selected: Other,255,48,5.3125,0
+Substitution Mode: fullGene,236,34,6.9411764705882355,0
+TIsigner Demo Clicked.,236,167,1.4131736526946108,0
+Detect Signal Peptide,207,140,1.4785714285714286,0
+Optimisation Form Shown: True,189,92,2.0543478260869565,0
+Host Selected: Saccharomyces Cerevisiae,125,12,10.416666666666666,0
+Reoptimise With Full Sequence Option Cli,92,12,7.666666666666667,0
+Type: Nucleotide,91,62,1.467741935483871,0
+Promoter Selected: T7,90,62,1.4516129032258065,0
+General FAQ Clicked.,83,54,1.537037037037037,0
+TIsigner Optimisation Failed With Error:,83,20,4.15,0
+Host Selected: Mus Musculus,68,22,3.090909090909091,0
+Custom Tag: Nucleotide,63,23,2.739130434782609,0
+RAZOR Demo Button Clicked.,56,41,1.3658536585365855,0
+Optimisation Form Shown: False,54,36,1.5,0
+RAZOR Example Button Clicked.,52,31,1.6774193548387097,0
+timing_complete,45,27,1.6666666666666667,0
+Host Selected: Escherichia Coli,40,30,1.3333333333333333,0
+License Clicked.,29,24,1.2083333333333333,0
+Target Expression: 100,27,21,1.2857142857142858,0
+Number of Codons to Substitute: 6,24,4,6,0
+Substitution Mode: transInit,22,15,1.4666666666666666,0
+TIsigner PDF Button Clicked and Results ,19,9,2.111111111111111,0
+Privacy Clicked.,15,15,1,0
+Custom Tag: Protein,14,13,1.0769230769230769,0
+Custom Seed: 1,10,3,3.3333333333333335,0
+Target Expression: 70,10,8,1.25,0
+Custom Seed: 10,9,3,3,0
+Custom Region;,8,3,2.6666666666666665,0
+Sampling Method: Quick,8,8,1,0
+Number of Codons to Substitute: 5,7,4,1.75,0
+Target Expression: 30,7,6,1.1666666666666667,0
+Number of Codons to Substitute: 9,6,6,1,0
+Terminator Check: False,6,6,1,0
+Custom Region; 1,5,4,1.25,0
+Custom Region; GATAATTTTAAGAAGGAGATATACA,5,1,5,0
+Number of Codons to Substitute: 4,5,2,2.5,0
+Number of Codons to Substitute: 7,5,4,1.25,0
+Custom Seed: 2,4,2,2,0
+Custom Seed: 20,4,2,2,0
+Target Expression: 99,4,4,1,0
+Terminator Check: True,4,4,1,0
+Custom Region; 1:,3,3,1,0
+Number of Codons to Substitute: 8,3,3,1,0
+Optimisation Direction: Decrease-Accessi,3,3,1,0
+Target Expression: 31,3,3,1,0
+Target Expression: 5,3,3,1,0
+Target Expression: 90,3,2,1.5,0
+Custom Region; -,2,1,2,0
+Custom Region; -7,2,1,2,0
+Custom Region; ATGAAGAAGAGTTTGAGTGTGTCGG,2,1,2,0
+Custom Region; ATGAGCAAAGGTGAAGAAC,2,1,2,0
+Custom Region; Gtgatgcggttttggcagtacacca,2,1,2,0
+Custom Seed:,2,1,2,0
+Custom Seed: 4,2,2,1,0
+Custom Seed: 42,2,2,1,0
+Custom Seed: 420,2,2,1,0
+Custom Seed: 4206,2,2,1,0
+Custom Seed: 42069,2,2,1,0
+Custom Seed: 5,2,1,2,0
+Custom Seed: 9,2,1,2,0
+Target Expression: 18,2,2,1,0
+Target Expression: 29,2,1,2,0
+Target Expression: 42,2,2,1,0
+Target Expression: 51,2,2,1,0
+Custom Region; 12,1,1,1,0
+Custom Region; 1:2,1,1,1,0
+Custom Region; 1:21,1,1,1,0
+Custom Region; 1:5,1,1,1,0
+Custom Region; 1:50,1,1,1,0
+Custom Region; 1:7,1,1,1,0
+Custom Region; 7,1,1,1,0
+Custom Region; AAGAAGAGTTTGAGTGTGTCGGGGC,1,1,1,0
+Custom Region; AAGAGTTTGAGTGTGTCGGGGCCAG,1,1,1,0
+Custom Region; AGAAGAGTTTGAGTGTGTCGGGGCC,1,1,1,0
+Custom Region; AGAGTTTGAGTGTGTCGGGGCCAGG,1,1,1,0
+Custom Region; AGTTTGAGTGTGTCGGGGCCAGGGA,1,1,1,0
+Custom Region; ATGAAGAAGAGTTTGAGTCGGGGCC,1,1,1,0
+Custom Region; ATGAAGAAGAGTTTGAGTGGCCAGG,1,1,1,0
+Custom Region; ATGAAGAAGAGTTTGAGTGGGCCAG,1,1,1,0
+Custom Region; ATGAAGAAGAGTTTGAGTGGGGCCA,1,1,1,0
+Custom Region; ATGAAGAAGAGTTTGAGTGTCGGGG,1,1,1,0
+Custom Region; ATGAAGAAGAGTTTGAGTTCGGGGC,1,1,1,0
+Custom Region; ATGAAGAAGAGTTTGAGTTGTCGGG,1,1,1,0
+Custom Region; ATGAGCAAAGGT,1,1,1,0
+Custom Region; ATGAGCAAAGGTG,1,1,1,0
+Custom Region; ATGAGCAAAGGTGA,1,1,1,0
+Custom Region; ATGAGCAAAGGTGAA,1,1,1,0
+Custom Region; ATGAGCAAAGGTGAAG,1,1,1,0
+Custom Region; ATGAGCAAAGGTGAAGA,1,1,1,0
+Custom Region; ATGAGCAAAGGTGAAGAA,1,1,1,0
+Custom Region; ATGAGCAAAGGTGAAGAACTGTTTA,1,1,1,0
+Custom Region; ATGGACTGGACCTGGAGGGTGTTCT,1,1,1,0
+Custom Region; ATGGCCTCCTCCGAGGAC,1,1,1,0
+Custom Region; GAAGAAGAGTTTGAGTGTGTCGGGG,1,1,1,0
+Custom Region; GAAGAGTTTGAGTGTGTCGGGGCCA,1,1,1,0
+Custom Region; GAGTTTGAGTGTGTCGGGGCCAGGG,1,1,1,0
+Custom Region; GCCTCCTCCGAGGAC,1,1,1,0
+Custom Region; GGCCTCCTCCGAGGAC,1,1,1,0
+Custom Region; GTTTGAGTGTGTCGGGGCCAGGGAT,1,1,1,0
+Custom Region; MLPWSDSPLPDPVKKPNLFSPADDS,1,1,1,0
+Custom Region; TGAAGAAGAGTTTGAGTGTGTCGGG,1,1,1,0
+Custom Region; TGGCCTCCTCCGAGGAC,1,1,1,0
+Custom Region; TTGAGTGTGTCGGGGCCAGGGATGA,1,1,1,0
+Custom Region; TTTGAGTGTGTCGGGGCCAGGGATG,1,1,1,0
+Custom Seed: 12,1,1,1,0
+Optimisation Direction: Increase-Accessi,1,1,1,0
+Target Expression: 14,1,1,1,0
+Target Expression: 17,1,1,1,0
+Target Expression: 20,1,1,1,0
+Target Expression: 21,1,1,1,0
+Target Expression: 22,1,1,1,0
+Target Expression: 24,1,1,1,0
+Target Expression: 25,1,1,1,0
+Target Expression: 26,1,1,1,0
+Target Expression: 27,1,1,1,0
+Target Expression: 33,1,1,1,0
+Target Expression: 45,1,1,1,0
+Target Expression: 46,1,1,1,0
+Target Expression: 53,1,1,1,0
+Target Expression: 56,1,1,1,0
+Target Expression: 6,1,1,1,0
+Target Expression: 62,1,1,1,0
+Target Expression: 65,1,1,1,0
+Target Expression: 68,1,1,1,0
+Target Expression: 71,1,1,1,0
+Target Expression: 72,1,1,1,0
+Target Expression: 8,1,1,1,0
+Target Expression: 86,1,1,1,0
+Target Expression: 88,1,1,1,0
+Target Expression: 98,1,1,1,0
